@@ -3,7 +3,7 @@ PHP mail spoofing demo with configurable From/Reply-To headers for security test
 
 # Spoofing Mail Script (Conceptual Overview)
 
-![Spoofing Script UI](../images/spoofing-mailer.png)
+![Spoofing Script UI](/images/spoofing-mailer.png)
 
 **Goal:** Demonstrate how to extend PHP’s `mail()` function to include a forged `Reply-To` header without exposing raw script.
 
